@@ -1,9 +1,20 @@
+<!--
+ * @Author: yhlyl
+ * @Date: 2019-11-18 20:35:54
+ * @LastEditTime: 2019-11-18 20:57:09
+ * @LastEditors: yhlyl
+ * @Description: 
+ * @FilePath: /webwork/proj/src/App.vue
+ * @https://github.com/android-coco
+ -->
 <template>
   <div id="app">
-    <div id="nav">
+   <!-- 
+     <div id="nav">
       <router-link to="/">Home</router-link> |
       <router-link to="/about">About</router-link>
     </div>
+   -->
     <router-view/>
   </div>
 </template>
